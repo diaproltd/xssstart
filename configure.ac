@@ -1,0 +1,5 @@
+AC_INIT(xssstart.c)
+AM_INIT_AUTOMAKE(xssstart,0.1)
+AC_PROG_CC
+AC_PROG_INSTALL
+AC_OUTPUT(Makefile)
